@@ -9,7 +9,7 @@ import "./App.css"
 
 function App() {
   return (
-    <BrowserRoute<BrowserRouter basename={import.meta.env.BASE_URL}>r>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <div className="app-container">
 
         <aside className="sidebar">
